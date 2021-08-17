@@ -1,0 +1,10 @@
+db.sqlite3
+*.pyc
+.vscode/settings.json
+.env
+media/
+staticfiles/
+node_modules/
+.vscode/.ropeproject/config.py
+.vscode/.ropeproject/objectdb
+*.mo
